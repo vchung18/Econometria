@@ -1,4 +1,4 @@
-# ECONOMETRIA
+# ECONOMETRIA CON R
 La Econometría es fundamental para la medición económica. Sin embargo, su importancia va
 mucho más allá de la disciplina de la economía. La Econometría es un conjunto de herramientas de
 investigación útil también para trabajar en las disciplinas de negocios de contabilidad, finanzas,
