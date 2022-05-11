@@ -22,7 +22,7 @@ emplearán para el desarrollo de prácticas y trabajos durante el semestre.
 
 ### Objetivos Específicos 
 1. Definir los conceptos de análisis de regresión lineal y métodos de estimación.
-2. Conocer el manejo del programa Econometric Views para obtener resultados por computadora e interpretarlos correctamente.
+2. Conocer el manejo de `R` para obtener resultados por computadora e interpretarlos correctamente.
 3. Conocer los métodos y técnicas para el tratamiento de modelos econométricos y poder emplearlos para estimación, a 
    fin de usarlos en predicción, análisis estructural y recomendaciones de política.
 5. Diseñar y aplicar modelos de series de tiempo y corte transversal a las variables económicas.
