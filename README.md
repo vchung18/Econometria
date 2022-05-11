@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/vchung18/Econometria.git/HEAD)
+
 # ECONOMETRIA CON R
 La Econometría es fundamental para la medición económica. Sin embargo, su importancia va
 mucho más allá de la disciplina de la economía. La Econometría es un conjunto de herramientas de
